@@ -1,0 +1,10 @@
+18. Hacer un programa que escriba los números enteros comprendidos entre 531 y 540 (inclusive).
+19. Hacer un programa que calcule la suma de los números enteros del 1 al 10 (inclusive) usando el bucle for.
+20. Hacer un programa que pida dos números a y b, enteros, por teclado (se asume que a es menor que b siempre), e imprima la suma de todos los números enteros desde a hasta b, ambos inclusive.
+21. Hacer el ejercicio anterior, pero sin asumir que el primer número es menor que el segundo. Es decir, pedir dos números enteros por teclado e imprimir la suma de todos los números enteros desde el menor hasta el mayor, ambos inclusive.
+22. Hacer un programa que genere 10 números aleatoriamente y calcule su media.
+26. Hacer un programa que calcule la suma y el producto de los 30 primeros números naturales. (El 0 no cuenta)
+27. Hacer un programa que calcule el factorial de un número pedido por teclado. (Ejemplo: el factorial de 5 sería 5 * 4 * 3 * 2 * 1; el de 4 sería 4* 3 * 2 * 1, etc.)
+28. Hacer un programa que imprima todos los números múltiplos de 5 entre 1 y n, siendo n un número introducido por el usuario.
+29. Escribe un programa que, dados dos números, uno real (base) y un entero positivo (exponente), saque por pantalla el resultado de la potencia. No se puede utilizar el método  Math.pow().
+30. Realizar un programa que pida números (al arrancar el programa se pedirá por teclado la cantidad de números a introducir). El programa debe informar de cuántos números introducidos son mayores que 0, menores que 0 e iguales a 0.
